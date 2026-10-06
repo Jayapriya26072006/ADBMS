@@ -1,6 +1,6 @@
 DECLARE
-    num1 NUMBER :=:input_num1;
-    num2 NUMBER :=:input_num2;
+    num1 NUMBER := 58;
+    num2 NUMBER := 22;
     remainder NUMBER;
     gcd NUMBER;
 BEGIN
